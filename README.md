@@ -1,1 +1,2 @@
 # InpatientCostPrediction
+Final Project for Binghamton University's SSIE 643- Advanced Engineering Analytics. This project uses python and machine learning concepts to build an effective machine learning model that will predict the cost of inpatient treatment based on key parameters such as APR DRG Description, CSS Procedure Description and more. The ultimate goal of this research is to determine better cost and pay transparency for inpatient facilities for patients.
